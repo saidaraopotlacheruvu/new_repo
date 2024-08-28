@@ -1,0 +1,29 @@
+shll types: c shell (csh)   
+            bourne shell (sh) 
+            z shell (zsh)
+            korn shell (ksh)
+            gnu bourne-again shell (bash)
+            t shell (tsh)
+shell $ vaibles:  1) accessing varibles
+                  2)unsetting varibles
+                  3)read only varibles
+           varibles types:
+                    1)local variable
+                    2)environment varibles
+                    3)shell varibles
+operators: 1) arithmetic operation 
+            2)relation operation 
+            3)boolean operation 
+            4)bitwise operation
+            5)file test operation 
+condations:1)if statement
+           2)if-else statement
+           3)if-elif-else
+           4)if-then-else
+           5)switch statement
+loops:1)while
+      2)for
+      3)until
+
+
+      
